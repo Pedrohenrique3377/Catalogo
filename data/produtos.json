@@ -1,0 +1,265 @@
+[{
+        "id": 1,
+        "nome": "Malbec Desodorante Colônia",
+        "marca": "O Boticário",
+        "descricao": "Fragrância masculina icônica feita com notas inspiradas no mundo dos vinhos.",
+        "preco": 209.90,
+        "imagem": "produto1.png"
+    },
+    {
+        "id": 2,
+        "nome": "Lily Eau de Parfum",
+        "marca": "O Boticário",
+        "descricao": "Fragrância feminina sofisticada com a pureza dos lírios e toque de óleo essencial.",
+        "preco": 299.90,
+        "imagem": "produto2.png"
+    },
+    {
+        "id": 3,
+        "nome": "Egeo Dolce Desodorante Colônia",
+        "marca": "O Boticário",
+        "descricao": "Fragrância feminina doce e divertida, combinando marshmallow, sorvete de framboesa e algodão-doce.",
+        "preco": 144.90,
+        "imagem": "produto3.png"
+    },
+    {
+        "id": 4,
+        "nome": "Floratta Blue Desodorante Colônia",
+        "marca": "O Boticário",
+        "descricao": "Fragrância feminina floral leve e confortável, ideal para o dia a dia.",
+        "preco": 149.90,
+        "imagem": "produto4.png"
+    },
+    {
+        "id": 5,
+        "nome": "Malbec Gold Desodorante Colônia",
+        "marca": "O Boticário",
+        "descricao": "Fragrância amadeirada intensa que traz a exclusiva tecnologia GoldSense.",
+        "preco": 224.90,
+        "imagem": "produto5.png"
+    },
+    {
+        "id": 6,
+        "nome": "Linda Desodorante Colônia",
+        "marca": "O Boticário",
+        "descricao": "Fragrância feminina que brilha com notas florais e um fundo amadeirado marcante.",
+        "preco": 174.90,
+        "imagem": "produto6.png"
+    },
+    {
+        "id": 7,
+        "nome": "Coffee Woman Seduction Desodorante Colônia",
+        "marca": "O Boticário",
+        "descricao": "Fragrância feminina sensual com o equilíbrio perfeito entre café e chocolate branco.",
+        "preco": 189.90,
+        "imagem": "produto7.png"
+    },
+    {
+        "id": 8,
+        "nome": "Coffee Man Desodorante Colônia",
+        "marca": "O Boticário",
+        "descricao": "Fragrância masculina marcante que mistura notas de tabaco, couro e extrato de café.",
+        "preco": 189.90,
+        "imagem": "produto8.png"
+    },
+    {
+        "id": 9,
+        "nome": "Nativa SPA Loção Hidratante Ameixa",
+        "marca": "O Boticário",
+        "descricao": "Hidratante corporal que estimula o colágeno da pele e deixa uma fragrância inconfundível.",
+        "preco": 79.90,
+        "imagem": "produto9.png"
+    },
+    {
+        "id": 10,
+        "nome": "Cuide-se Bem Loção Nuvem",
+        "marca": "O Boticário",
+        "descricao": "Hidratação corporal leve e confortável com cheirinho aconchegante de limpeza.",
+        "preco": 54.90,
+        "imagem": "produto10.png"
+    },
+    {
+        "id": 11,
+        "nome": "Glamour Secrets Black Desodorante Colônia",
+        "marca": "O Boticário",
+        "descricao": "Fragrância feminina misteriosa e sedutora, com notas de baunilha e frutas vermelhas.",
+        "preco": 179.90,
+        "imagem": "produto11.png"
+    },
+    {
+        "id": 12,
+        "nome": "Quasar Classic Desodorante Colônia",
+        "marca": "O Boticário",
+        "descricao": "Fragrância masculina fresca e vibrante, perfeita para homens enérgicos.",
+        "preco": 144.90,
+        "imagem": "produto12.png"
+    },
+    {
+        "id": 13,
+        "nome": "Floratta Red Desodorante Colônia",
+        "marca": "O Boticário",
+        "descricao": "Fragrância feminina inspirada na maçã de Vermont, combinando doçura e romance.",
+        "preco": 149.90,
+        "imagem": "produto13.png"
+    },
+    {
+        "id": 14,
+        "nome": "Egeo Spicy Vibe Desodorante Colônia",
+        "marca": "O Boticário",
+        "descricao": "Fragrância masculina que combina o frescor da baunilha com o toque picante da pimenta preta.",
+        "preco": 144.90,
+        "imagem": "produto14.png"
+    },
+    {
+        "id": 15,
+        "nome": "Zaad Eau de Parfum",
+        "marca": "O Boticário",
+        "descricao": "Fragrância masculina sofisticada que traz notas verdes herbais combinadas com nuances cítricas.",
+        "preco": 289.90,
+        "imagem": "produto15.png"
+    },
+    {
+        "id": 16,
+        "nome": "Celebre Sua Força Desodorante Colônia Feminino",
+        "marca": "O Boticário",
+        "descricao": "Fragrância floral frutal fresca, ideal para celebrar as conquistas do dia a dia.",
+        "preco": 94.90,
+        "imagem": "produto16.png"
+    },
+    {
+        "id": 17,
+        "nome": "Boticollection Acqua Fresca Desodorante Colônia",
+        "marca": "O Boticário",
+        "descricao": "Um clássico da perfumaria feminina com notas cítricas, lavanda e pinho.",
+        "preco": 124.90,
+        "imagem": "produto17.png"
+    },
+    {
+        "id": 18,
+        "nome": "Boticollection Portinari Desodorante Colônia",
+        "marca": "O Boticário",
+        "descricao": "Fragrância masculina amadeirada com toque sutil de baunilha, cheia de personalidade.",
+        "preco": 154.90,
+        "imagem": "produto18.png"
+    },
+    {
+        "id": 19,
+        "nome": "Nativa SPA Óleo Corporal Ameixa Negra",
+        "marca": "O Boticário",
+        "descricao": "Óleo hidratante com gotas purificadas de quinoa que realçam o brilho e a maciez da pele.",
+        "preco": 84.90,
+        "imagem": "produto19.png"
+    },
+    {
+        "id": 20,
+        "nome": "Batom Cremoso Make B. Hyaluronic Classic Rouge",
+        "marca": "O Boticário",
+        "descricao": "Batom vermelho com ácido hialurônico que preenche as linhas e hidrata os lábios.",
+        "preco": 64.90,
+        "imagem": "produto20.png"
+    },
+    {
+        "id": 21,
+        "nome": "Base Líquida Make B. Mate Salicylic",
+        "marca": "O Boticário",
+        "descricao": "Base facial com acabamento matte e ácido salicílico que trata e controla a oleosidade.",
+        "preco": 99.90,
+        "imagem": "produto21.png"
+    },
+    {
+        "id": 22,
+        "nome": "Máscara de Cílios Make B. 4K Lash",
+        "marca": "O Boticário",
+        "descricao": "Máscara de cílios para volume extremo, definição fio a fio e definição de alta tecnologia.",
+        "preco": 89.90,
+        "imagem": "produto22.png"
+    },
+    {
+        "id": 23,
+        "nome": "Sérum de Alta Potência Botik Retinol Puro",
+        "marca": "O Boticário",
+        "descricao": "Tratamento facial noturno com retinol puro para reduzir rugas profundas e linhas de expressão.",
+        "preco": 179.90,
+        "imagem": "produto23.png"
+    },
+    {
+        "id": 24,
+        "nome": "Gel Creme Hidratante Botik Ácido Hialurônico",
+        "marca": "O Boticário",
+        "descricao": "Hidratante facial que preenche a pele e devolve a firmeza natural com textura leve.",
+        "preco": 139.90,
+        "imagem": "produto24.png"
+    },
+    {
+        "id": 25,
+        "nome": "Malbec Black Desodorante Colônia",
+        "marca": "O Boticário",
+        "descricao": "Fragrância masculina amadeirada intensa inspirada no mistério e sofisticação da cor preta.",
+        "preco": 224.90,
+        "imagem": "produto25.png"
+    },
+    {
+        "id": 26,
+        "nome": "Lily Creme Acetinado Hidratante Corporal",
+        "marca": "O Boticário",
+        "descricao": "Creme corporal com textura acetinada que hidrata profundamente com a fragrância de Lily.",
+        "preco": 119.90,
+        "imagem": "produto26.png"
+    },
+    {
+        "id": 27,
+        "nome": "Cuide-se Bem Body Splash Boa Noite",
+        "marca": "O Boticário",
+        "descricao": "Colônia pós-banho com extrato de camomila, ideal para uma noite de sono tranquila.",
+        "preco": 69.90,
+        "imagem": "produto27.png"
+    },
+    {
+        "id": 28,
+        "nome": "Dr. Botica Poção da Coragem Colônia Infantil",
+        "marca": "O Boticário",
+        "descricao": "Fragrância infantil fresca e suave, com notas de alecrim e musk para os pequenos.",
+        "preco": 84.90,
+        "imagem": "produto28.png"
+    },
+    {
+        "id": 29,
+        "nome": "Sophie Candy Desodorante Colônia",
+        "marca": "O Boticário",
+        "descricao": "Fragrância infantil feminina adocicada e floral, ideal para meninas cheias de energia.",
+        "preco": 89.90,
+        "imagem": "produto29.png"
+    },
+    {
+        "id": 30,
+        "nome": "Uomini Desodorante Colônia",
+        "marca": "O Boticário",
+        "descricao": "Fragrância masculina fahrenheit-vibe, combinando frescor aromático e madeiras marcantes.",
+        "preco": 164.90,
+        "imagem": "produto30.png"
+    },
+    {
+        "id": 31,
+        "nome": "Arbo Desodorante Colônia",
+        "marca": "O Boticário",
+        "descricao": "Fragrância masculina fresca que traz o ar da montanha e notas verdes para o cotidiano.",
+        "preco": 149.90,
+        "imagem": "produto31.png"
+    },
+    {
+        "id": 32,
+        "nome": "Insensatez Desodorante Colônia",
+        "marca": "O Boticário",
+        "descricao": "Fragrância sem gênero, leve e refrescante, que combina o cítrico com o conforto do musk.",
+        "preco": 134.90,
+        "imagem": "produto32.png"
+    },
+    {
+        "id": 32,
+        "nome": "Puro vudu o 00 da quebrada",
+        "marca": "Rochele",
+        "descricao": "O próprio nome já diz tudo. Um clássico vintage, terroso, misterioso e super denso.",
+        "preco": 1000.00,
+        "imagem": "Purevoodoo.png"
+    }
+]
